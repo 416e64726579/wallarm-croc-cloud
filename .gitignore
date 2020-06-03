@@ -1,0 +1,5 @@
+.terraform
+terraform*
+id_rsa*
+c2rc.sh
+variables.auto.tfvars.tf
